@@ -13,15 +13,6 @@ public class QuizMenu {
         return new Player(KBInput.readString("Enter your name: "));
     }
 
-
-
-    // TODO: 1. show question
-    // TODO: 2. show choices as JRadioButton with ChoiceLetter values
-    // TODO: 3. save selected user input and return
-
-    // poggers
-    // fuck
-
     public static ChoiceLetter questionView(Question question) {
         System.out.println(question.getQuestion());
         System.out.println();
@@ -52,7 +43,7 @@ public class QuizMenu {
     }
 
     /**
-     * Cunt
+     *
      * @param players ArrayList of Players
      */
     public static void leaderboardView(ArrayList<Player> players) {

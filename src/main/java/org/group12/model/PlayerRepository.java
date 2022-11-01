@@ -1,4 +1,5 @@
 // This class creates an ArrayList so that it can hold player's data (though this is only a volatile database of some sort)
+// Creates a SQLite table database for hold player's data permanently.
 
 package org.group12.model;
 

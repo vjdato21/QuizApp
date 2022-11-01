@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// Class responsible for taking user input and also for catching exceptions
 public class KBInput {
 
     private static BufferedReader getReader() {

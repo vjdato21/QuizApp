@@ -1,3 +1,4 @@
+// A class responsible for integrating SQLite database into the program. This will connect to the database or create one if not available.
 package org.group12.db;
 
 import java.sql.*;
