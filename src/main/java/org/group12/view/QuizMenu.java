@@ -38,9 +38,6 @@ public class QuizMenu {
         System.out.println("Player Name: " + player.getName());
         System.out.println("Score: " + player.getScore());
     }
-    public static void fuck(String personToBeFucked) {
-        System.out.println("Get fucked, " + personToBeFucked);
-    }
 
     /**
      *
